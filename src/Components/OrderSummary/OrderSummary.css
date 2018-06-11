@@ -1,0 +1,20 @@
+.Main_content{
+    width: 70%;
+    margin: 75px auto;
+    font-family: 'Josefin Sans', sans-serif;
+  
+}
+
+
+.order_detail{
+    width: 70%;
+}
+
+.OrderHead{
+    margin: 50px 0;
+}
+
+.selectedItem{
+    padding: 10px 0;
+    border-bottom: 1px solid #868181;
+}

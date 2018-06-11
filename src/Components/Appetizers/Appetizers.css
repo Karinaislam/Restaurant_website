@@ -1,0 +1,49 @@
+.items_head{
+    padding:  20px 50px;
+}
+
+.appetizers_menu{
+        margin: 75px auto;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
+.table_items{
+        width : 100%;
+  }
+
+  .table_items tr td:first-child {
+    width: 75%;
+}
+
+    
+.menu_items{
+      color: #4a4a4a;
+      text-decoration: none;
+      outline: none;
+      display: block;
+      padding: 0.75em;
+      border-bottom: 1px solid #868181;
+      border-left: 0.25em solid white;
+  }
+    
+    .menuList{
+        padding:  20px 50px;
+    }
+    
+
+    .itemNameDescription{
+        width: 100%;
+    }
+    
+    .price {
+        width: 100%;
+        text-align: right;
+        color: #4f8509;
+        padding: 0.25em 0 0 0.25em;
+    }
+
+    .cartIcon{
+        margin: 20px;
+    }
+    
+    

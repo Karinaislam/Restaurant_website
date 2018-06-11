@@ -1,0 +1,14 @@
+.navbar{
+    padding-top: 20px;
+}
+.brandName{
+    font-size: 25px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+.cart_color{
+   color: white;
+}

@@ -1,0 +1,28 @@
+.total{
+    margin: 75px 0;
+    width: 25%;
+    border-left: 2px solid black;
+    float: right;
+    height: 300px;
+
+}
+
+.totalHead{
+    text-align: center;
+}
+
+.perItem{
+    width: 100%;
+    padding: 10px 0;
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.itemName{
+    width:70%;
+    text-align: right;
+}
+
+.itemPrice{
+    width:70%;
+    text-align: right;
+}

@@ -1,0 +1,21 @@
+.hours{
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hours_head{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.data{
+    width: 50%;
+
+}
+
+td{
+    font-size: 17px;
+}

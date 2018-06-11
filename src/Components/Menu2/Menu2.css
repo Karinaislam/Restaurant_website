@@ -1,0 +1,29 @@
+.main_content{
+    width: 70%;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 75px auto;
+    display: flex;
+    font-size: 17px;
+}
+
+.menu2{
+    width: 20%;
+   
+   
+}
+
+.menu_discription{
+    width: 70%;
+}
+
+.menu_groups{
+    vertical-align:top;
+    padding: 50px 0;
+}
+
+.menu_groups a{
+    
+   padding: 10px;
+    display: block;
+}
+

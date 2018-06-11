@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item_Name": "Chicken Satay (5 pieces)",
+      "description":
+        "Grilled strips of chicken breast, curry, served with delicious peanut sauce and cucumber salad.",
+      "price": 6.25
+    },
+
+    {
+      "id": 2,
+      "item_Name": "Tofu Satay",
+      "description": "Served with peanut sauce and cucumber salad.",
+      "price": 6.25
+    },
+
+    {
+      "id": 3,
+      "item_Name": "Fish Cake",
+      "description":
+        "Ground fillet of fish mixed with Thai curry served with sweet sour sauce topped with pieces of cucumberand crunched peanut..",
+      "price": 6.25
+    },
+
+    {
+      "id": 4,
+      "item_Name": "Shrimp Cake",
+      "description": " A luscious blend of shrimp and deep fried till crispy.",
+      "price": 6.75
+    },
+
+    {
+      "id": 5,
+      "item_Name": "Shrimp Rolls (5 pieces)",
+      "description": " Deep fried shrimp wrapped with spring roll skin.",
+      "price": 4.5
+    },
+
+    {
+      "id": 6,
+      "item_Name": "Spring Rolls (2 rolls)",
+      "description":
+        "Fresh spring roll stuffed with cooked bean curd, bean sprout, cucumber, omelet and topped withtamarind sauce.",
+      "price": 4.5
+    },
+
+    {
+      "id": 7,
+      "item_Name": "Vegetable Rolls (5 pieces)",
+      "description":
+        "Fresh rolls with mixed vegetables, noodles, splashed with our house dressing. Served with peanut sauce.",
+      "price": 4.5
+    },
+    {
+      "id": 8,
+      "item_Name": "Vegetable Egg Rolls (3 pieces)",
+      "description":
+        "Home-made egg rolls stuffed with bean thread noodles, carrots, and cabbage. Served with sweet & sour sauce",
+      "price": 4.25
+    },
+
+    {
+      "id": 9,
+      "item_Name": "Baby Egg Rolls (6 pieces)",
+      "description":
+        "Tiny egg rolls filled with chicken, shrimp, black mushroom and bean thread noodle. Served with sweet & sour sauce",
+      "price": 4.25
+    },
+
+    {
+      "id": 10,
+      "item_Name": "Crab Rangoon (6 pieces)<",
+      "description":
+        " A mixture of crab meat, cream cheese, celery and homemade sauce, wrapped in thin crepes and deep fried till crispy. Served with sweet &amp; soursauce",
+      "price": 4.5
+    },
+
+    {
+      "id": 11,
+      "item_Name": "Shumai (6 pieces)",
+      "description":
+        "Steamed shrimp or fried shrimp dumpling. Served with special homemade sauce.",
+      "price": 4.25
+    },
+
+    {
+      "id": 12,
+      "item_Name": "Pot Stickers (5 pieces)",
+      "description":
+        "Wheat flour pastries filled with a luscious blend of shrimp and garden vegetables. Served with homemade sesame sauce.",
+      "price": 4.25
+    },
+
+    {
+      "id": 13,
+      "item_Name": "Fried Tofu",
+      "description":
+        " Deep-fried flesh bean curds. Served with sweet & sour sauce topped with ground peanuts and onion.",
+      "price": 3.95
+    },
+
+    {
+      "id": 14,
+      "item_Name": "Edamame",
+      "description": "Steamed soybean served with salt.",
+      "price": 3.95
+    },
+
+    {
+      "id": 15,
+      "item_Name": "Ocean Shrimp",
+      "description": "Crispy shrimp served with lime sauce.",
+      "price": 6.75
+    },
+
+    {
+      "id": 16,
+      "item_Name": "Mixed Appetizers",
+      "description":
+        "Pot stickers (3), Crab Rangoon (3), baby Egg Roll (3), Shrimp Roll (3) and Fried tofu.",
+      "price": 8.95
+    },
+
+    {
+      "id": 17,
+      "item_Name": "Takoyaki",
+      "description":
+        "Octopus Ball with Japanese barbeque sauce, mayo, bonito flakes.",
+      "price": 5.95
+    }
+  ],
+
+  "soups": [
+    {
+      "id": 18,
+      "item_Name": "Chicken Noodle Soup",
+      "description":
+        "chicken noodle soup with bean sprouts and chinese broccoli.",
+      "price": 6.25
+    },
+
+    {
+      "id": 19,
+      "item_Name": "Tom Yum",
+      "description": "Served with peanut sauce and cucumber salad.",
+      "price": 5.25
+    },
+
+    {
+      "id": 20,
+      "item_Name": "Vegetable Tofu Soup",
+      "description": "bean curd cakes and assorted vegetables in clear broth.",
+      "price": 6.25
+    },
+
+    {
+      "id": 22,
+      "item_Name": "Won Ton Soup",
+      "description":
+        " clear soup with shrimp and chicken stuffed won ton and napa.",
+      "price": 6.75
+    }
+  ],
+
+  "noodles": [
+    {
+      "id": 23,
+      "item_Name": "Pad Thai",
+      "description":
+        "stir-fried thin rice noodles with bean sprouts, green onion, egg, ground peanuts (on the side) and sliced lime. your choice of chicken or tofu.",
+      "price": 6.25
+    },
+
+    {
+      "id": 24,
+      "item_Name": "Golden Noodles ",
+      "description":
+        "stir-fried egg noodles with chicken, egg, carrot, zucchini, straw mushrooms and broccoli.",
+      "price": 5.25
+    },
+
+    {
+      "id": 25,
+      "item_Name": "Dumpling Noodles",
+      "description":
+        "stuffed shrimp dumpling, chinese broccoli, bean sprouts, egg noodles and bbq pork. served in clear broth.",
+      "price": 6.25
+    },
+
+    {
+      "id": 26,
+      "item_Name": "Garlic Chicken Noodles",
+      "description":
+        " tasty egg noodles with bean sprouts and crushed peanut. your choice of chicken, tofu, beef or vegetables.",
+      "price": 6.75
+    }
+  ],
+
+  "entrees": [
+    {
+      "id": 27,
+      "item_Name": "Basil Leaves Entree",
+      "description":
+        "stir-fried ground chicken or beef with sweet basil leaves, bell peppers, onions, carrot and jalapenos. spicy.",
+      "price": 6.25
+    },
+
+    {
+      "id": 28,
+      "item_Name": "Mixed Vegetables Entree",
+      "description":
+        "stir-fried garden vegetable with your choice of chicken, beef, tofu or plain vegetables in gravy sauce and garlic.",
+      "price": 5.25
+    },
+
+    {
+      "id": 29,
+      "item_Name": "Fried Rice Entree ",
+      "description":
+        "your choice of chicken, beef, tofu or vegetables with onions, egg, green peas, carrots and a touch of lime.",
+      "price": 6.25
+    },
+
+    {
+      "id": 30,
+      "item_Name": "Cashew Entree",
+      "description":
+        " stir-fried boneless chicken breast with roasted cashew nuts, onion, pineapples, bell peppers, carrots and dried hot pepper. spicy.",
+      "price": 6.75
+    }
+  ]
+}
